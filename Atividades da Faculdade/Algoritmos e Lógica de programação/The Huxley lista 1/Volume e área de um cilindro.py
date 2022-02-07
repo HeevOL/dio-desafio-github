@@ -1,0 +1,5 @@
+a = float(input())
+r = float(input())
+p = float(3.14)
+print("%.2f" % (p * r ** 2 * a))
+print("%.2f" % ((2 * p * r * a)+(2 * p * r ** 2)))
