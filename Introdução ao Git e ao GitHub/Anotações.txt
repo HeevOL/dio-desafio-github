@@ -1,3 +1,18 @@
 Link para download do Git: https://git-scm.com/downloads
 
 O git Bash é um terminal extendido para otimizar o uso do Git.
+
+Alguns comandos importantes:
+
+ls - listar os diretorios e arquivos do local atual
+cd - para se mover entre os repositorios
+mkdir - para criar um repositorio
+clear ou CRTL + L - para limpar a tela
+git add * - para adicionar TODOS os arquivos modificados no commit
+git add <nome do arquivo> para adicionar o arquivo modificado no commit
+git commit -m "texto" - para commitar os arquivos com mensagem
+git push orgin main - para enviar os arquivos ao github
+git status - visualizar o status dos arquivos no repositorio
+git pull origin master - para pegar os arquivos do github
+git remote add origin <endereço> - para adicionar os arquivos do github para um repositorio local
+git config --list - para mostrar as configurações da sua conta github
