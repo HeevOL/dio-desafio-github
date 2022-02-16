@@ -1,0 +1,15 @@
+C:\Desafio DIO\dio-desafio-github\Construtores-Propriedade-Delegate-e-Eventos-dotNET\Exemplo-Construtores\bin\Debug\net6.0\Exemplo-Construtores.exe
+C:\Desafio DIO\dio-desafio-github\Construtores-Propriedade-Delegate-e-Eventos-dotNET\Exemplo-Construtores\bin\Debug\net6.0\Exemplo-Construtores.deps.json
+C:\Desafio DIO\dio-desafio-github\Construtores-Propriedade-Delegate-e-Eventos-dotNET\Exemplo-Construtores\bin\Debug\net6.0\Exemplo-Construtores.runtimeconfig.json
+C:\Desafio DIO\dio-desafio-github\Construtores-Propriedade-Delegate-e-Eventos-dotNET\Exemplo-Construtores\bin\Debug\net6.0\Exemplo-Construtores.dll
+C:\Desafio DIO\dio-desafio-github\Construtores-Propriedade-Delegate-e-Eventos-dotNET\Exemplo-Construtores\bin\Debug\net6.0\ref\Exemplo-Construtores.dll
+C:\Desafio DIO\dio-desafio-github\Construtores-Propriedade-Delegate-e-Eventos-dotNET\Exemplo-Construtores\bin\Debug\net6.0\Exemplo-Construtores.pdb
+C:\Desafio DIO\dio-desafio-github\Construtores-Propriedade-Delegate-e-Eventos-dotNET\Exemplo-Construtores\obj\Debug\net6.0\Exemplo-Construtores.csproj.AssemblyReference.cache
+C:\Desafio DIO\dio-desafio-github\Construtores-Propriedade-Delegate-e-Eventos-dotNET\Exemplo-Construtores\obj\Debug\net6.0\Exemplo-Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desafio DIO\dio-desafio-github\Construtores-Propriedade-Delegate-e-Eventos-dotNET\Exemplo-Construtores\obj\Debug\net6.0\Exemplo-Construtores.AssemblyInfoInputs.cache
+C:\Desafio DIO\dio-desafio-github\Construtores-Propriedade-Delegate-e-Eventos-dotNET\Exemplo-Construtores\obj\Debug\net6.0\Exemplo-Construtores.AssemblyInfo.cs
+C:\Desafio DIO\dio-desafio-github\Construtores-Propriedade-Delegate-e-Eventos-dotNET\Exemplo-Construtores\obj\Debug\net6.0\Exemplo-Construtores.csproj.CoreCompileInputs.cache
+C:\Desafio DIO\dio-desafio-github\Construtores-Propriedade-Delegate-e-Eventos-dotNET\Exemplo-Construtores\obj\Debug\net6.0\Exemplo-Construtores.dll
+C:\Desafio DIO\dio-desafio-github\Construtores-Propriedade-Delegate-e-Eventos-dotNET\Exemplo-Construtores\obj\Debug\net6.0\ref\Exemplo-Construtores.dll
+C:\Desafio DIO\dio-desafio-github\Construtores-Propriedade-Delegate-e-Eventos-dotNET\Exemplo-Construtores\obj\Debug\net6.0\Exemplo-Construtores.pdb
+C:\Desafio DIO\dio-desafio-github\Construtores-Propriedade-Delegate-e-Eventos-dotNET\Exemplo-Construtores\obj\Debug\net6.0\Exemplo-Construtores.genruntimeconfig.cache
